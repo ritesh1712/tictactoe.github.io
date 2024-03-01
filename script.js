@@ -93,7 +93,7 @@ reset.addEventListener('click', () => {
         info.innerText = "turn for x"
         turn = "x";
         gameOver = false;
-line.style.width="0px";
+// line.style.width="0px";
 
 
     });
